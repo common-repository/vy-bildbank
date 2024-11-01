@@ -1,0 +1,40 @@
+/** Define plugin icon size **/
+#toplevel_page_vybildbank-options div.wp-menu-image img {
+    width: 20px;
+    height: 20px;
+}
+
+#vybildbank-modal .media-toolbar-primary .spinner {
+    margin-top: 20px;
+}
+
+#vybildbank-modal .media-toolbar-secondary .spinner {
+    margin-left: 10px;
+}
+
+.vybildbank-button-wrapper {
+    /* margin-top: 8px;
+    width: 100%; */
+    margin-left: 16px;
+}
+
+#vybildbank-modal .vybildbank-required-usage-comment {
+    border: 2px solid red !important;
+}
+
+#vybildbank-modal .vybildbank-root-button {
+    margin-top: 12px !important;
+    margin-left: 15px !important;
+}
+
+#vybildbank-modal .media-toolbar .select2 {
+    margin-top: 11px !important;
+}
+
+#vybildbank-modal .attachment-details .setting[data-setting="url"] {
+    display: none !important;
+}
+
+#vybildbank-modal .attachments-browser .uploader-inline-content {
+    display: none !important;
+}
